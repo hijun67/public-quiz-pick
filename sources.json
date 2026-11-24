@@ -1,0 +1,9 @@
+{
+  "_설명": "수집할 공식 이벤트 게시판/목록 주소를 추가하세요. 해당 페이지의 링크 중 '퀴즈·이벤트·경품·설문' 글자가 들어간 링크를 따라가 수집합니다. 아래 주소는 기관 메인 페이지 예시이므로, 실제 이벤트 게시판 주소로 바꾸면 수집률이 올라갑니다.",
+  "sources": [
+    { "agency": "행정안전부", "type": "중앙정부", "url": "https://www.mois.go.kr" },
+    { "agency": "한국재정정보원", "type": "공공기관", "url": "https://www.kofis.or.kr" },
+    { "agency": "국회예산정책처", "type": "공공기관", "url": "https://www.nabo.go.kr" },
+    { "agency": "서울특별시", "type": "지자체", "url": "https://www.seoul.go.kr" }
+  ]
+}
