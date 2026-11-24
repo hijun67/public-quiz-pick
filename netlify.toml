@@ -1,0 +1,8 @@
+# Static site (no framework). The build script generates per-event pages,
+# sitemap.xml and robots.txt into public/, which is then published as-is.
+[build]
+  command = "pnpm run build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "22"
